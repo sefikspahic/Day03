@@ -7,7 +7,7 @@ function main() {
 
     x = x + 2;
     y = y + 4;
-    z = z + "Šefik";
+    z = z + " John!";
 
 
     return [x, y, z];
